@@ -1,0 +1,1 @@
+# automated_chess_board_fritzing_arty_a7
